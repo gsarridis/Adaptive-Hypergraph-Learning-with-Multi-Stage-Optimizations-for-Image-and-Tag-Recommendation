@@ -17,6 +17,7 @@ If you find this code useful in your research, please consider citing:
   title={Adaptive Hypergraph Learning with Multi Stage Optimizations for Image and Tag Recommendation},
   author={Karantaidis G. and Sarridis I. and Kotropoulos C.},
   journal={Signal Processing: Image Communication},
+  doi = {https://doi.org/10.1016/j.image.2021.116367},
   volume={pending...},
   number={pending...},
   pages={pending...},
